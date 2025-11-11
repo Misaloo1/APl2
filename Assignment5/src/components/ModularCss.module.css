@@ -1,0 +1,14 @@
+.container{
+  border: 3px solid rgb(0, 255, 4);
+  margin: 20px;
+  text-align: center;
+  background-color: rgba(184, 237, 147, 0.33);
+}
+#heading{
+  color: rgba(40, 33, 240, 0.962);
+  text-decoration: underline;
+}
+#para{
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(239, 95, 145);
+}

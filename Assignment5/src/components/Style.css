@@ -1,0 +1,14 @@
+.container{
+  border: 3px solid red;
+  margin: 20px;
+  text-align: center;
+  background-color: antiquewhite;
+}
+#heading{
+  color: blueviolet;
+  text-decoration: underline;
+}
+#para{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(23, 237, 11);
+}
